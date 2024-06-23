@@ -62,5 +62,5 @@ This project aims to create an end-to-end data pipeline from ingestion data to v
 ![image](https://github.com/AdamChan-ML/adventureworks-datapipeline/assets/78518992/3f11f855-4b58-4429-bda8-9a92fd7faa97)
 
 ## For more detailed documentation:
-- [Documentation]()
+- [Documentation](https://github.com/AdamChan-ML/adventureworks-datapipeline/blob/main/DE-Adworks-Documentation.pdf)
 
